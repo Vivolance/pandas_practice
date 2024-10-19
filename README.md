@@ -11,3 +11,20 @@
 
 ## 3. Load CSV into a pandas dataframe
 - Print out the entire data frame
+
+
+# Challenge 2
+
+## 1. Create SQLAlchemy table with 3 columns
+- Name (PK)
+- Age (not null)
+- Town (not null)
+
+1. Create your database first
+2. Set up alembic
+3. Set up your tables.py in alembic
+4. Set env variables in zshrc and assign it to env.py
+5. 
+
+## 2. Configure Alembic to get your connection string from an environment variable instead of alembic.ini
+- Set your connection string in your ~/.zshrc file
